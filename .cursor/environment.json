@@ -1,0 +1,4 @@
+{
+  "name": "OdbDesign",
+  "install": "bash .cursor/install.sh"
+}
